@@ -58,7 +58,7 @@ Vaccines 2021, 9, 3
 https://dx.doi.org/10.3390/vaccines9010003
 6. www.medinstill.com/intact_modular_filler_imf.php (with links to 4 interesting videos)
 7. https://www.medinstill.com/press_release_3.php
-8. http://www.aseptictech.com/compliance#modal6m2
+8. http://www.aseptictech.com/compliance#modal6m2 (click "Read more" link for "Validation Master Plan")
 
 Q9 Have you read the Prime Minister's announcement dated 16 November 2020 of the $1 billion provided to CSL to upgrade its 1940s egg products to 1980s cell based vaccine technology?
 
