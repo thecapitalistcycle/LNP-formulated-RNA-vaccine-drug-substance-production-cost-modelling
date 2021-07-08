@@ -16,7 +16,7 @@ Are you confident that this process will produce good results? If so, why?
 
 Q2 What preparations have you made for the possibility, however slight, that the DISER process might fail to produce good results?
 
-Q3 If not you, who? If not now, when? Have you recruited engineers to examine the technical documents supporting any DISER results? Do you have lawyers on retainer ready to insist on performance of due diligence reviews? Has drafting begun on a request for audit by the Commonwealth Auditor-General? Has the State government been briefed on the possibility that political intervention may become necessary both between governments and via the Senate?
+Q3 If not you, then who? If not now, then when? Have you recruited engineers to examine the technical documents supporting any DISER results? Do you have lawyers on retainer ready to insist on performance of due diligence reviews? Has drafting begun on a request for audit by the Commonwealth Auditor-General? Has the State government been briefed on the possibility that political intervention may become necessary both between governments and via the Senate?
 
 Q4 Australia's Government is running a vaccination campaign with the slogan:
 
@@ -29,9 +29,9 @@ VACCINATION
 
 KEEPING AUSTRALIA COVID**SAFE**
 
-This directly undermines the global campaign from W.H.O.:
+This directly undermines the **global** campaign from W.H.O.:
 
-"No one is safe until everyone is safe"
+"**No one** is safe until **everyone** is safe"
 
 The Australian government campaign explicitly replaces "everyone" with "we" and explicitly defines "we" as "Australia".
 
@@ -43,7 +43,7 @@ Q6 If the supply chain "club" of some BNT is willing to pander to such vaccine n
 
 Q7 If some other BNT declines to enter into negotiations with Australia but establishes agreements for state of the art manufacturing facilities in Singapore for 2023 and a billion dose facility in China for the current pandemic, should we consider this means there is no alternative to Moderna? Or should we consider that we need to do whatever it takes to establish a CMDO that either or any BNT could plausibly work with?
 
-Q8 The initial Fill and Finish plant in Shanghai is expected to produce its first BioNTech batch next month. CEPI has modular fillers that can be installed in developing countries in three months. The manufacturer, MedInstall can assemble one in warehouse space in 3 days (see video). BioNTech's CEO believes it will take 12 months to establish a Fill and Finish plant in Africa. Could we establish contact with CEPI, MedInstall, Imperial College VaxHub, Moderna, BioNTech, AstraZeneca and CSL to help install one here and one in South Africa very rapidly and organize clinical trials for TGA/EMA/FDA to accept 200 dose pouches as alternative presentations for the Final Dose Form of all three vaccines?
+Q8 The initial Fill and Finish plant in Shanghai is expected to produce its first BioNTech batch next month. CEPI has modular fillers that can be installed in developing countries in three months. The manufacturer, MedInstill can assemble one in warehouse space in 3 days (see video). BioNTech's CEO believes it will take 12 months to establish a Fill and Finish plant in Africa. Could we establish contact with CEPI, MedInstill, Imperial College VaxHub, Moderna, BioNTech, AstraZeneca and CSL to help install one here and one in South Africa very rapidly and organize clinical trials for TGA/EMA/FDA to accept 200 dose pouches as alternative presentations for the Final Dose Form of all three vaccines?
 
 See:
 
