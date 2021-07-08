@@ -71,6 +71,7 @@ Q10 According to CSL's Managing Director, Paul Perreault:
 “This is not for the faint of heart. These are difficult biologics, and I think it’s a great opportunity for the future and we’ll continue to look at what role we’ll be able to play there. But it’s not going to happen overnight.”
 
 https://www.smh.com.au/business/companies/not-for-the-faint-of-heart-csl-interested-in-mrna-development-20210221-p574e2.html
+
 CSL has many staff and other resources that will be needed for mRNA production. 
 
 Have you thought about any way to involve them in working together with some new CMDO whose leadership is not "faint of heart" and that does not stand to have its recent $800 millon investment in 1980s vaccine technology joining its 1940s egg product business as a stranded asset resulting from mRNA flu vaccines?
