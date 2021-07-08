@@ -41,7 +41,7 @@ Q5 Do you agree that Australians will become safe from covid-19 as a result of v
 
 Q6 If the supply chain "club" of some BNT is willing to pander to such vaccine nationalism by entering into negotiations with demands to be "at the head of the queue" from an Australian government for an "Australia first" facility at "population scale" should Australians be confident about joining a club that would accept such a member?
 
-Q7 If some other BNT declines to enter into negotiations with Australia but establishes agreements for state of the art manufacturing facilities in Singapore for 2023 and a billion dose facility in China for the current pandemic, should we consider this means there is no alternative to Moderna? Or should we consider that we need to do whatever it takes to establish a CDMO that either or any BNT could plausibly work with?
+Q7 If some other BNT declines to enter into negotiations with Australia but establishes agreements for state of the art manufacturing facilities in Singapore for 2023 and a billion dose facility in China for the current pandemic, should we consider this means there is no alternative to Moderna? Or should we consider that we need to do whatever it takes to establish a CMDO that either or any BNT could plausibly work with?
 
 Q8 The initial Fill and Finish plant in Shanghai is expected to produce its first BioNTech batch next month. CEPI has modular fillers that can be installed in developing countries in three months. The manufacturer, MedInstall can assemble one in warehouse space in 3 days (see video). BioNTech's CEO believes it will take 12 months to establish a Fill and Finish plant in Africa. Could we establish contact with CEPI, MedInstall, Imperial College VaxHub, Moderna, BioNTech, AstraZeneca and CSL to help install one here and one in South Africa very rapidly and organize clinical trials for TGA/EMA/FDA to accept 200 dose pouches as alternative presentations for the Final Dose Form of all three vaccines?
 
@@ -71,12 +71,11 @@ Q10 According to CSL's Managing Director, Paul Perreault:
 “This is not for the faint of heart. These are difficult biologics, and I think it’s a great opportunity for the future and we’ll continue to look at what role we’ll be able to play there. But it’s not going to happen overnight.”
 
 https://www.smh.com.au/business/companies/not-for-the-faint-of-heart-csl-interested-in-mrna-development-20210221-p574e2.html
-
 CSL has many staff and other resources that will be needed for mRNA production. 
 
-Have you thought about any way to involve them in working together with some new CDMO whose leadership is not "faint of heart" and that does not stand to have its recent $800 millon investment in 1980s vaccine technology joining its 1940s egg product business as a stranded asset resulting from mRNA flu vaccines?
+Have you thought about any way to involve them in working together with some new CMDO whose leadership is not "faint of heart" and that does not stand to have its recent $800 millon investment in 1980s vaccine technology joining its 1940s egg product business as a stranded asset resulting from mRNA flu vaccines?
 
-Q11 Could a "Pharmaceutical Emergency Reserve" be established in support of the State Emergency Service or based on emergency vaccine manufacture as an Essential Service? Could legislative provisions similar to those that enable people with skills needed by the armed forces to be enrolled as Reserves for mobilization when needed while preserving their normal employment make it easier to recruit CSL staff for a new CDMO?
+Q11 Could a "Pharmaceutical Emergency Reserve" be established in support of the State Emergency Service or based on emergency vaccine manufacture as an Essential Service? Could legislative provisions similar to those that enable people with skills needed by the armed forces to be enrolled as Reserves for mobilization when needed while preserving their normal employment make it easier to recruit CSL staff for a new CMDO?
 
 Q12 Are you confident that no emergency measures will be needed to accelerate mRNA manufacture for a sterilizing vaccine in the present pandemic as a result of the further evolution of some Variant Of Concern into a Variant of High Consequence that is both more infectious to people already vaccinated against earlier variants and more virulent especially against the majority of the world's population that remain unvaccinated but also against people infected despite vaccination?
 
@@ -85,12 +84,10 @@ See:
 1. Van Egeren D et al. (2021) Risk of
 rapid evolutionary escape from biomedical
 interventions targeting SARS-CoV-2 spike protein.
-PLoS ONE 16(4): e0250780. https://doi.org/
-10.1371/journal.pone.0250780
+PLoS ONE 16(4): e0250780. https://doi.org/10.1371/journal.pone.0250780
 Published: April 28, 2021
 
 2. Read AF et al. (2015) Imperfect
 Vaccination Can Enhance the Transmission of Highly
-Virulent Pathogens. PLoS Biol 13(7): e1002198.
-doi:10.1371/journal.pbio.1002198
+Virulent Pathogens. PLoS Biol 13(7): e1002198.https://doi.org/10.1371/journal.pbio.1002198
 
